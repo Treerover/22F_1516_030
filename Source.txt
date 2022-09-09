@@ -1,0 +1,6 @@
+git status
+git add NameOfTheFile
+git commit -m"type message here"
+git push
+git pull
+
